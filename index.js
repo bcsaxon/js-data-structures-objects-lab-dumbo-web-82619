@@ -8,6 +8,6 @@ return Object.assign({}, driver, { [key]: value })
 
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
   
-  return const driver ={key, value}
+  return const driver ={key:  value}
   
 }
